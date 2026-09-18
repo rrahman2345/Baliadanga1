@@ -6,8 +6,7 @@
     <title>Baliadanga Girls' High School</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&amp;display=swap"
-
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&amp;display=swap"
       rel="stylesheet">
     <link rel="stylesheet" href="style.css">
   </head>
@@ -16,6 +15,20 @@
       <h1>✨ Computer Resources ✨</h1>
       <p>Developing Computer Literacy </p>
     </header>
+    <p><br>
+    </p>
+    <h2>
+      <p>Network Setup</p>
+    </h2>
+    <img src="network.png" alt="network setup" title="network setup">
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
     <p>We have total of 5 laptops in our setup<br>
       *2 are HP laptops.<br>
       *3 are Dell laptops.<br>
@@ -43,6 +56,5 @@
       *All 5 laptops (Hp and Dell )are wirelessly connected to this central
       mobile<br>
       hotspot to share the internet and access the network /server.</p>
-    
   </body>
 </html>
