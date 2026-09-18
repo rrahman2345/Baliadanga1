@@ -147,11 +147,12 @@
       <p>Committed to building a modern, skilled, and enlightened generation</p>
     </header>
     <nav> <a href="#" class="active">Home</a> <a href="#about">About Us</a> <a
-        href="#computer">Computer Lab</a> <a href="#contact">Contact</a> </nav>
+        href="file:///C:/Users/rrahm/OneDrive/Desktop/ICT/Website/Baliadanga1/computers.html"
+        title="Computer resources" target="_blank">Computer Lab</a> <a href="#contact">Contact</a>
+    </nav>
     <div class="container">
-      <section class="hero">
-        <div class="hero-img"> <img src="sschoolpicture.jpg" alt="abaiadanga school"
-            title="school" style="width: 358px; height: 269px;">School Image </div>
+      <section class="hero"><img src="sschoolpicture.jpg" alt="" title="school picture"
+          style="width: 466px; height: 349px;">
         <div class="hero-content">
           <h2>&nbsp;Principal's Message</h2>
           <p>"Education is our core light. We are committed to fostering a
