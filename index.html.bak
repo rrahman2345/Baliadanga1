@@ -3,10 +3,11 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Baliadanga Girls' High School</title>
+    <title>Baliadanga Girls' Middle School</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&amp;display=swap"
+
       rel="stylesheet">
     <style>
         * {
@@ -143,15 +144,16 @@
   </head>
   <body>
     <header>
-      <h1>✨ Baliadanga Girls' High School ✨</h1>
+      <h1>✨ Baliadanga Girls' School ✨</h1>
       <p>Committed to building a modern, skilled, and enlightened generation</p>
     </header>
-    <nav> <a href="#" class="active">Home</a> <a href="#about">About Us</a> <a
-        href="file:///C:/Users/rrahm/OneDrive/Desktop/ICT/Website/Baliadanga1/computers.html"
-        title="Computer resources" target="_blank">Computer Lab</a> <a href="#contact">Contact</a>
-    </nav>
+    <nav> <a href="#" class="active">Home</a> <a href="#about">About Us</a> <a
+
+        href="computers.html" title="Computer resources" target="_top">Computer
+        Lab</a> <a href="#contact">Contact</a> </nav>
     <div class="container">
-      <section class="hero"><img src="sschoolpicture.jpg" alt="" title="school picture"
+      <section class="hero"><img src="sschoolpicture.jpg" alt="" title="school picture"
+
           style="width: 466px; height: 349px;">
         <div class="hero-content">
           <h2>&nbsp;Principal's Message</h2>
@@ -190,7 +192,8 @@
       <section class="quick-links">
         <h3>Quick Links</h3>
         <div class="link-grid"> <a href="#" class="link-card">Annual Sports
-            2026</a> <a href="#" class="link-card">Class Routine</a> <a href="#"
+            2026</a> <a href="#" class="link-card">Class Routine</a> <a href="#"
+
             class="link-card">Computer Lab</a> </div>
       </section>
     </div>
