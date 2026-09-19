@@ -3,72 +3,60 @@
     margin: 0;
     padding: 0;
 }
-
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f8fafc;
     color: #1e293b;
     line-height: 1.6;
 }
-
 header {
     background: linear-gradient(135deg, #0284c7, #0369a1);
     color: white;
     padding: 40px 20px;
     text-align: center;
 }
-
 header h1 {
-    font-size: clamp(28px, 5vw, 42px); /* Scales fluidly on smaller screens */
+    font-size: 42px;
     margin-bottom: 10px;
 }
-
 nav {
     background-color: #0f172a;
     display: flex;
     justify-content: center;
-    flex-wrap: wrap; /* Allows navigation links to wrap on narrow screens */
-    gap: 10px;
+    gap: 20px;
     padding: 15px;
     box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
 }
-
 nav a {
     color: white;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
     padding: 8px 16px;
     border-radius: 6px;
     transition: background 0.3s;
 }
-
 nav a:hover, nav a.active {
     background-color: #0284c7;
 }
-
 .container {
     max-width: 1200px;
     margin: 40px auto;
     padding: 0 20px;
 }
-
 .hero {
     display: grid;
-    /* Switches to a single column stack on mobile, 2 columns on larger screens */
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: 1fr 2fr;
     gap: 30px;
     background: white;
-    padding: 30px;
+    padding: 40px;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.05);
     align-items: center;
 }
-
 .hero-img {
     background-color: #e2e8f0;
     height: 250px;
-    width: 100%;
     border-radius: 8px;
     display: flex;
     align-items: center;
@@ -78,27 +66,23 @@ nav a:hover, nav a.active {
     font-weight: 600;
     border: 2px dashed #cbd5e1;
 }
-
 .hero-content h2 {
     color: #0369a1;
-    font-size: clamp(24px, 4vw, 32px);
+    font-size: 32px;
     margin-bottom: 15px;
 }
-
 .hero-content p {
-    font-size: 16px;
+    font-size: 18px;
     color: #475569;
     margin-bottom: 15px;
     padding: 5px;
 }
-
 .section {
     margin-bottom: 30px;
     padding: 15px;
     border: 1px dashed #cbd5e1;
     background: #fff;
 }
-
 .quick-links {
     margin-top: 40px;
     background: white;
@@ -106,23 +90,19 @@ nav a:hover, nav a.active {
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 }
-
 .quick-links h3 {
-    font-size: 22px;
+    font-size: 24px;
     color: #0f172a;
     margin-bottom: 20px;
     border-bottom: 3px solid #0284c7;
     padding-bottom: 8px;
     display: inline-block;
 }
-
 .link-grid {
     display: grid;
-    /* Automatically collapses columns into rows depending on screen width */
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
 }
-
 .link-card {
     background: #f1f5f9;
     padding: 20px;
@@ -134,17 +114,15 @@ nav a:hover, nav a.active {
     border: 1px solid #e2e8f0;
     transition: transform 0.2s, background 0.2s;
 }
-
 .link-card:hover {
     transform: translateY(-3px);
     background: #e0f2fe;
 }
-
 footer {
     text-align: center;
     padding: 30px;
     background-color: #0f172a;
     color: #94a3b8;
     margin-top: 60px;
-    font-size: 14px;
+    font-size: 16px;
 }
