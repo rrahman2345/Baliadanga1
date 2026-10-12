@@ -48,9 +48,10 @@
       </section>
       <section class="quick-links">
         <h3>Quick Links</h3>
-        <div class="link-grid"> <a href="#" class="link-card">Carreer Planning</a>
-          <a href="Routine.html" class="link-card">Class Routine</a> <a href="computers.html"
-            class="link-card" title="computer resources">Computer Lab</a> </div>
+        <div class="link-grid"> <a href="CarrerPaths.html" class="link-card" title="CareerPaths">Career
+            Planning</a> <a href="Routine.html" class="link-card">Class Routine</a>
+          <a href="computers.html" class="link-card" title="computer resources">Computer
+            Lab</a> </div>
       </section>
     </div>
     <footer>
